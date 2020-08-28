@@ -2,6 +2,8 @@
 ![images](auth0.png)
 ![images](auth0-2.png)
 
+* https://auth0.com/docs/quickstart/spa/angular2
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
